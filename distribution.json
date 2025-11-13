@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "clientId": "1327894948644786237",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
@@ -513,16 +513,6 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5043384,
-            "url": "http://shirou-dev.github.io/OPDistro.github.io/servers/Operation-Project-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "3c07e0a25c1921da7586c0290c72ba86"
-          }
-        },
-        {
           "id": "com.simibubi:create:6.0.8@jar",
           "name": "Create",
           "type": "ForgeMod",
@@ -580,16 +570,6 @@
             "size": 680255,
             "url": "http://shirou-dev.github.io/OPDistro.github.io/servers/Operation-Project-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
             "MD5": "636c62379cd7c5201a70fd457808e331"
-          }
-        },
-        {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.6+1.11.14+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3065813,
-            "url": "http://shirou-dev.github.io/OPDistro.github.io/servers/Operation-Project-1.20.1/forgemods/required/fabric-api-0.92.6+1.11.14+1.20.1.jar",
-            "MD5": "2859d401e221e94acf0b48c5f7efa50b"
           }
         },
         {
@@ -1154,14 +1134,36 @@
           }
         },
         {
-          "id": "figura-0.1.5+1.20.1-forge-mc-fsb-a8b4a8d7d86b36f0d609509ba2fb9eb176c71d26.jar",
-          "name": "figura-0.1.5+1.20.1-forge-mc-fsb-a8b4a8d7d86b36f0d609509ba2fb9eb176c71d26.jar",
+          "id": "Connector-1.0.0-beta.46+1.20.1.jar",
+          "name": "Connector-1.0.0-beta.46+1.20.1.jar",
           "type": "File",
           "artifact": {
-            "size": 2997689,
-            "url": "http://shirou-dev.github.io/OPDistro.github.io/servers/Operation-Project-1.20.1/files/mods/figura-0.1.5+1.20.1-forge-mc-fsb-a8b4a8d7d86b36f0d609509ba2fb9eb176c71d26.jar",
-            "MD5": "14c1c939e09366cf396099c5af6c209a",
-            "path": "mods/figura-0.1.5+1.20.1-forge-mc-fsb-a8b4a8d7d86b36f0d609509ba2fb9eb176c71d26.jar"
+            "size": 5043384,
+            "url": "http://shirou-dev.github.io/OPDistro.github.io/servers/Operation-Project-1.20.1/files/mods/Connector-1.0.0-beta.46+1.20.1.jar",
+            "MD5": "3c07e0a25c1921da7586c0290c72ba86",
+            "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+          "name": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3065813,
+            "url": "http://shirou-dev.github.io/OPDistro.github.io/servers/Operation-Project-1.20.1/files/mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+            "MD5": "2859d401e221e94acf0b48c5f7efa50b",
+            "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar"
+          }
+        },
+        {
+          "id": "figura-0.1.5+1.20.1-forge-mc.jar",
+          "name": "figura-0.1.5+1.20.1-forge-mc.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2338069,
+            "url": "http://shirou-dev.github.io/OPDistro.github.io/servers/Operation-Project-1.20.1/files/mods/figura-0.1.5+1.20.1-forge-mc.jar",
+            "MD5": "9a14ac7b2c6dea0085570fe4bb7a4b69",
+            "path": "mods/figura-0.1.5+1.20.1-forge-mc.jar"
           }
         },
         {
